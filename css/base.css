@@ -1,9 +1,13 @@
 /*
 * @Author: Zhuanglijuan
 * @Date:   2018-08-31 09:58:22
-* @Last Modified by:   Zhuanglijuan
-* @Last Modified time: 2018-09-01 15:29:59
+ * @Last Modified by: Zhuanglj
+ * @Last Modified time: 2018-09-01 21:49:04
 */
+img {
+    /* display: block; */
+    vertical-align: top; /*解决图片底侧有空隙*/
+}
 .w { /* 版心的公共类 */
     width: 1190px; /* 京东的版心是1190x */
     margin: 0 auto;
